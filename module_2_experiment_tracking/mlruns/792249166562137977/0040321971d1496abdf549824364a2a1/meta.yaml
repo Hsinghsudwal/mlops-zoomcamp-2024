@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/0040321971d1496abdf549824364a2a1/artifacts
+end_time: 1716845135891
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 0040321971d1496abdf549824364a2a1
+run_name: awesome-sponge-790
+run_uuid: 0040321971d1496abdf549824364a2a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845134158
+status: 3
+tags: []
+user_id: sudwa

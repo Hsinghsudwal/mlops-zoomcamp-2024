@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/1b8814422c82484bb1e05f893e4f7c2a/artifacts
+end_time: 1716849792606
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: 1b8814422c82484bb1e05f893e4f7c2a
+run_name: orderly-ray-157
+run_uuid: 1b8814422c82484bb1e05f893e4f7c2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849721547
+status: 3
+tags: []
+user_id: sudwa

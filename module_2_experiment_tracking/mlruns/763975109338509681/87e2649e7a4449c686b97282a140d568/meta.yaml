@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/87e2649e7a4449c686b97282a140d568/artifacts
+end_time: 1716847425716
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: 87e2649e7a4449c686b97282a140d568
+run_name: unequaled-bear-72
+run_uuid: 87e2649e7a4449c686b97282a140d568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716847425527
+status: 4
+tags: []
+user_id: sudwa

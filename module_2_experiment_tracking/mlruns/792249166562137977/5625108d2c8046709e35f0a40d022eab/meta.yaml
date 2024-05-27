@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/5625108d2c8046709e35f0a40d022eab/artifacts
+end_time: 1716845315084
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 5625108d2c8046709e35f0a40d022eab
+run_name: chill-eel-363
+run_uuid: 5625108d2c8046709e35f0a40d022eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845299674
+status: 3
+tags: []
+user_id: sudwa

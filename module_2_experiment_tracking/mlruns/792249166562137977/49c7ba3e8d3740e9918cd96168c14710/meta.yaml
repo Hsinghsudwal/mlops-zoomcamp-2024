@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/49c7ba3e8d3740e9918cd96168c14710/artifacts
+end_time: 1716849192824
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 49c7ba3e8d3740e9918cd96168c14710
+run_name: shivering-fawn-956
+run_uuid: 49c7ba3e8d3740e9918cd96168c14710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849158117
+status: 3
+tags: []
+user_id: sudwa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/092dc5f10be44205b75520acc45ded07/artifacts
+end_time: 1716849257655
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 092dc5f10be44205b75520acc45ded07
+run_name: sincere-yak-919
+run_uuid: 092dc5f10be44205b75520acc45ded07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849252846
+status: 3
+tags: []
+user_id: sudwa

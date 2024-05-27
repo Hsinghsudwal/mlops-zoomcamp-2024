@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/bfeef5bcf115431e95999d850e703b0a/artifacts
+end_time: 1716845167241
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: bfeef5bcf115431e95999d850e703b0a
+run_name: bouncy-owl-52
+run_uuid: bfeef5bcf115431e95999d850e703b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845157021
+status: 3
+tags: []
+user_id: sudwa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/0ea17377720d4480a7e748d9f3da8ed7/artifacts
+end_time: 1716849089829
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 0ea17377720d4480a7e748d9f3da8ed7
+run_name: righteous-toad-292
+run_uuid: 0ea17377720d4480a7e748d9f3da8ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849087725
+status: 3
+tags: []
+user_id: sudwa

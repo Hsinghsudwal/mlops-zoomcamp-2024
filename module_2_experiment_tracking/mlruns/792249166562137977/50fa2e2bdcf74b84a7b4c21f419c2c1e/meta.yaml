@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/50fa2e2bdcf74b84a7b4c21f419c2c1e/artifacts
+end_time: 1716845134108
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 50fa2e2bdcf74b84a7b4c21f419c2c1e
+run_name: debonair-finch-23
+run_uuid: 50fa2e2bdcf74b84a7b4c21f419c2c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845104083
+status: 3
+tags: []
+user_id: sudwa

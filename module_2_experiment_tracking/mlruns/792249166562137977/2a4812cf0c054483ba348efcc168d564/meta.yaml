@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/2a4812cf0c054483ba348efcc168d564/artifacts
+end_time: 1716849214514
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 2a4812cf0c054483ba348efcc168d564
+run_name: orderly-fawn-16
+run_uuid: 2a4812cf0c054483ba348efcc168d564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849197356
+status: 3
+tags: []
+user_id: sudwa

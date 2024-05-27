@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/37529f6f952441549202013a06f2e208/artifacts
+end_time: 1716845138668
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 37529f6f952441549202013a06f2e208
+run_name: delightful-crow-627
+run_uuid: 37529f6f952441549202013a06f2e208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845135948
+status: 3
+tags: []
+user_id: sudwa

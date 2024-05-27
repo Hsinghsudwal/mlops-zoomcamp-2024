@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/754b7ab8c7e243349d86dccbc56fb5e6/artifacts
+end_time: 1716849087663
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 754b7ab8c7e243349d86dccbc56fb5e6
+run_name: enchanting-hog-594
+run_uuid: 754b7ab8c7e243349d86dccbc56fb5e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849085964
+status: 3
+tags: []
+user_id: sudwa

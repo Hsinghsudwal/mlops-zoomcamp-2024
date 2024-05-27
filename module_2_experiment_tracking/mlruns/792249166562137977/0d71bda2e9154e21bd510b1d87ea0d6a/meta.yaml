@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/0d71bda2e9154e21bd510b1d87ea0d6a/artifacts
+end_time: 1716845200563
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 0d71bda2e9154e21bd510b1d87ea0d6a
+run_name: sedate-moose-32
+run_uuid: 0d71bda2e9154e21bd510b1d87ea0d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845167406
+status: 3
+tags: []
+user_id: sudwa

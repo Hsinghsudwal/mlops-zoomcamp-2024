@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/ba9beef2aeb84a4a806451d167cfa074/artifacts
+end_time: 1716849399406
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: ba9beef2aeb84a4a806451d167cfa074
+run_name: adorable-ram-706
+run_uuid: ba9beef2aeb84a4a806451d167cfa074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849339345
+status: 3
+tags: []
+user_id: sudwa

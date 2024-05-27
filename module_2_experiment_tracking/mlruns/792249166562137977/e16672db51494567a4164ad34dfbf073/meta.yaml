@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/e16672db51494567a4164ad34dfbf073/artifacts
+end_time: 1716849197289
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: e16672db51494567a4164ad34dfbf073
+run_name: adaptable-lamb-195
+run_uuid: e16672db51494567a4164ad34dfbf073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849192924
+status: 3
+tags: []
+user_id: sudwa
