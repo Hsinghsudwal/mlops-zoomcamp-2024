@@ -1,0 +1,12 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "notebook.formatOnCellExecution": true,
+    "notebook.formatOnSave.enabled": true,
+    "cSpell.enableFiletypes": [
+        "bat",
+        "dockercompose"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
