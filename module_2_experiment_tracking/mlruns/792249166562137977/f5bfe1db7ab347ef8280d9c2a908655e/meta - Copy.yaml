@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/f5bfe1db7ab347ef8280d9c2a908655e/artifacts
+end_time: 1716845156933
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: f5bfe1db7ab347ef8280d9c2a908655e
+run_name: burly-flea-348
+run_uuid: f5bfe1db7ab347ef8280d9c2a908655e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845138760
+status: 3
+tags: []
+user_id: sudwa

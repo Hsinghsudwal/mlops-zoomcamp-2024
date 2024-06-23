@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/e9256e2dc51f43bca9cd548ac6735723/artifacts
+end_time: 1716845229278
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: e9256e2dc51f43bca9cd548ac6735723
+run_name: omniscient-shark-307
+run_uuid: e9256e2dc51f43bca9cd548ac6735723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845200677
+status: 3
+tags: []
+user_id: sudwa

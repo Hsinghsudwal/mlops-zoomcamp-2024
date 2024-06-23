@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/6b3327e12ca74ccf80c44102bdefb95f/artifacts
+end_time: 1716849400464
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: 6b3327e12ca74ccf80c44102bdefb95f
+run_name: serious-swan-440
+run_uuid: 6b3327e12ca74ccf80c44102bdefb95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849399696
+status: 4
+tags: []
+user_id: sudwa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/da2c8b422fe34cf9b8b69fd77739f8db/artifacts
+end_time: 1716845283231
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: da2c8b422fe34cf9b8b69fd77739f8db
+run_name: shivering-pig-233
+run_uuid: da2c8b422fe34cf9b8b69fd77739f8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845273700
+status: 3
+tags: []
+user_id: sudwa

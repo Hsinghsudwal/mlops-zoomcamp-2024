@@ -1,0 +1,9 @@
+digest: 5a2feb47
+name: dataset
+profile: '{"features_shape": [69392, 5702], "features_size": 395673184, "features_nbytes":
+  3165385472}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 5702]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "sudwa", "mlflow.source.name": "best_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "c19b3e9a07a8d76c40f7847eb8031e5c7e41f943"}}'
+source_type: code

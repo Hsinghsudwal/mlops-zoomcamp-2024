@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/353950bf58434ca0979d5074ca55f98e/artifacts
+end_time: 1716849122020
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 353950bf58434ca0979d5074ca55f98e
+run_name: bittersweet-pug-851
+run_uuid: 353950bf58434ca0979d5074ca55f98e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849110773
+status: 3
+tags: []
+user_id: sudwa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/5d9f51a70fd849daabe9c87b0989cfea/artifacts
+end_time: 1716846237251
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: 5d9f51a70fd849daabe9c87b0989cfea
+run_name: inquisitive-hen-297
+run_uuid: 5d9f51a70fd849daabe9c87b0989cfea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716846236998
+status: 4
+tags: []
+user_id: sudwa

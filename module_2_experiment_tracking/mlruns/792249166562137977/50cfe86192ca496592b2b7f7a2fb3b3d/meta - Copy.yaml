@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/50cfe86192ca496592b2b7f7a2fb3b3d/artifacts
+end_time: 1716849240678
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 50cfe86192ca496592b2b7f7a2fb3b3d
+run_name: salty-pig-371
+run_uuid: 50cfe86192ca496592b2b7f7a2fb3b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849229888
+status: 3
+tags: []
+user_id: sudwa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/bedc8be8440b43ccb2fb56ef98d0194d/artifacts
+end_time: 1716845273599
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: bedc8be8440b43ccb2fb56ef98d0194d
+run_name: wise-pig-157
+run_uuid: bedc8be8440b43ccb2fb56ef98d0194d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845263338
+status: 3
+tags: []
+user_id: sudwa

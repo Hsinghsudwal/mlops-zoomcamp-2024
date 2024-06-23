@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/62ef73311cb14ef3b72c289821fb6f8a/artifacts
+end_time: 1716845232695
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 62ef73311cb14ef3b72c289821fb6f8a
+run_name: righteous-hog-36
+run_uuid: 62ef73311cb14ef3b72c289821fb6f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716845229382
+status: 3
+tags: []
+user_id: sudwa

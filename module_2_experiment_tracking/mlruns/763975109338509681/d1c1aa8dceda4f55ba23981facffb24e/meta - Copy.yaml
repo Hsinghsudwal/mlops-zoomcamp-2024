@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/d1c1aa8dceda4f55ba23981facffb24e/artifacts
+end_time: 1716849793096
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: d1c1aa8dceda4f55ba23981facffb24e
+run_name: classy-hog-865
+run_uuid: d1c1aa8dceda4f55ba23981facffb24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849792791
+status: 4
+tags: []
+user_id: sudwa

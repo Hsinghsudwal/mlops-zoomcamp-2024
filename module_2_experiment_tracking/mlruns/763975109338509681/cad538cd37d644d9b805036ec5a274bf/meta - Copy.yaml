@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/cad538cd37d644d9b805036ec5a274bf/artifacts
+end_time: 1716846820141
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: cad538cd37d644d9b805036ec5a274bf
+run_name: glamorous-shad-663
+run_uuid: cad538cd37d644d9b805036ec5a274bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716846819969
+status: 4
+tags: []
+user_id: sudwa

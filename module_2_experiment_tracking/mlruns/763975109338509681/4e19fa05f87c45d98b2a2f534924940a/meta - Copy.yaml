@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763975109338509681/4e19fa05f87c45d98b2a2f534924940a/artifacts
+end_time: 1716848336333
+entry_point_name: ''
+experiment_id: '763975109338509681'
+lifecycle_stage: active
+run_id: 4e19fa05f87c45d98b2a2f534924940a
+run_name: languid-moose-126
+run_uuid: 4e19fa05f87c45d98b2a2f534924940a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716848336159
+status: 4
+tags: []
+user_id: sudwa

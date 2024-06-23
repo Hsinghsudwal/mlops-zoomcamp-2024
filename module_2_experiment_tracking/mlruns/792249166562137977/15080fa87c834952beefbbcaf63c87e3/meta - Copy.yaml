@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/15080fa87c834952beefbbcaf63c87e3/artifacts
+end_time: 1716849157959
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 15080fa87c834952beefbbcaf63c87e3
+run_name: enchanting-mare-520
+run_uuid: 15080fa87c834952beefbbcaf63c87e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849122119
+status: 3
+tags: []
+user_id: sudwa

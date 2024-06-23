@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/d4d4b122d63f40b58af94473d74ac0fc/artifacts
+end_time: 1716849085895
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: d4d4b122d63f40b58af94473d74ac0fc
+run_name: orderly-fish-802
+run_uuid: d4d4b122d63f40b58af94473d74ac0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849063066
+status: 3
+tags: []
+user_id: sudwa

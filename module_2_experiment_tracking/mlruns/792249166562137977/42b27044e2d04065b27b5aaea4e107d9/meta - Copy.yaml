@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792249166562137977/42b27044e2d04065b27b5aaea4e107d9/artifacts
+end_time: 1716849229820
+entry_point_name: ''
+experiment_id: '792249166562137977'
+lifecycle_stage: active
+run_id: 42b27044e2d04065b27b5aaea4e107d9
+run_name: fun-eel-84
+run_uuid: 42b27044e2d04065b27b5aaea4e107d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716849214623
+status: 3
+tags: []
+user_id: sudwa
