@@ -37,7 +37,6 @@ def predict_model(df,dv,model):
 
 def main():
     
-    
     year = int(sys.argv[1]) #2023
     month = int(sys.argv[2])#
 
