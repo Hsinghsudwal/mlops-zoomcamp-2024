@@ -1,0 +1,1 @@
+{"version": "0.4.27", "metrics": [{"metric": "ColumnQuantileMetric", "result": {"column_name": "fare_amount", "column_type": "num", "quantile": 0.5, "current": {"value": 13.5}, "reference": null}}], "timestamp": "2024-03-01 00:00:00"}
