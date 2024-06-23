@@ -87,7 +87,7 @@ def calculate_metrics_postgresql(curr, i):
 		(begin + datetime.timedelta(i), prediction_drift, num_drifted_columns, share_missing_values, quantile_0_5)
 	)
 
-#@flow
+@flow
 def batch_monitoring_backfill():
 	prep_db()
 	last_send = datetime.datetime.now() - datetime.timedelta(seconds=10)
