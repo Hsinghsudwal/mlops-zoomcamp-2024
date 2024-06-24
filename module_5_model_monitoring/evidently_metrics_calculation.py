@@ -69,7 +69,7 @@ def calculate_metrics_postgresql(curr, i):
 	current_data = raw_data[(raw_data.lpep_pickup_datetime >= (begin + datetime.timedelta(i))) &
 		(raw_data.lpep_pickup_datetime < (begin + datetime.timedelta(i + 1)))]
 
-	#current_data.fillna(0, inplace=True)
+	current_data.fillna(0, inplace=True)
 	current_data['prediction'] = model.predict(current_data[num_features + cat_features].fillna(0))
 
 	report.run(reference_data = reference_data, current_data = current_data,
@@ -83,7 +83,7 @@ def calculate_metrics_postgresql(curr, i):
 	quantile_0_5 = result['metrics'][3]['result']['current']['value']
 
 	curr.execute(
-		"insert into dummy_metrics(timestamp, prediction_drift, num_drifted_columns, share_missing_values, quantile_0_5, trip_std) values (%s, %s, %s, %s, %s, %s)",
+		"insert into dummy_metrics(timestamp, prediction_drift, num_drifted_columns, share_missing_values, quantile_0_5) values (%s, %s, %s, %s, %s)",
 		(begin + datetime.timedelta(i), prediction_drift, num_drifted_columns, share_missing_values, quantile_0_5)
 	)
 
@@ -92,7 +92,7 @@ def batch_monitoring_backfill():
 	prep_db()
 	last_send = datetime.datetime.now() - datetime.timedelta(seconds=10)
 	with psycopg.connect("host=localhost port=5432 dbname=test user=postgres password=example", autocommit=True) as conn:
-		for i in range(0, 27):
+		for i in range(0, 30):
 			with conn.cursor() as curr:
 				calculate_metrics_postgresql(curr, i)
 
