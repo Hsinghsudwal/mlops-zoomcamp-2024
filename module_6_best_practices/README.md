@@ -1,14 +1,23 @@
 ## Code snippets
 
 ### Env 
-venv `pipenv install`
-run `pipenv shell` or `pipenv run`
-
-### test
-`--dev test`
+step 1: `pip install pipenv`
+step 2: venv `pipenv install`
+step 3: `pipenv install [package] or --dev [package]`
+step 3: run `pipenv shell` or `pipenv run`
 
 ### python
-python interpreter`pipenv --venv`
+--config pytest
+`pipenv --venv` to find env location
+python interpreter `pipenv --venv`
+
+### unit_test run
+`pipenv run pytest [location]`
+
+### integration-test run
+`./integration-test/run.sh`
+
+
 
 
 ### Building and running Docker images

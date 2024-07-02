@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+
+[dev-packages]
+pytest = "*"
+deepdiff = "*"
+black = "*"
+isort = "*"
+pre-commit = "*"
+pylint = "==2.14.4"
+pandas = "*"
+pyarrow = "*"
+fsspec = "*"
+s3fs = "*"
+boto3 = "*"
+mlflow = "*"
+scikit-learn = "==1.02"
+
+[requires]
+python_version = "3.11"
