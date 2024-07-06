@@ -17,6 +17,21 @@ python interpreter `pipenv --venv`
 ### integration-test run
 `./integration-test/run.sh`
 
+### AWS CLI, this is how we create a bucket:
+
+`aws s3 mb s3://nyc-duration`
+Then we need to check that the bucket was successfully created. With AWS:
+`aws s3 ls`
+
+
+### List the buckets in localstack
+`aws --endpoint-url=http://localhost:4566 s3 ls`
+### Create a bucket in Localstack
+`aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration`
+### Make input and output paths configurable
+`export INPUT_FILE_PATTERN="s3://nyc-duration/in/{year:04d}-{month:02d}.parquet"`
+`export OUTPUT_FILE_PATTERN="s3://nyc-duration/out/{year:04d}-{month:02d}.parquet`
+`export S3_ENDPOINT_URL="http://localhost:4566"`
 
 
 

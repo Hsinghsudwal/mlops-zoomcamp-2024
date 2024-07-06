@@ -12,8 +12,6 @@ export INPUT_FILE_PATTERN="s3://nyc-duration/in/{year:04d}-{month:02d}.parquet"
 export OUTPUT_FILE_PATTERN="s3://nyc-duration/out/{year:04d}-{month:02d}.parquet"
 export S3_ENDPOINT="http://localhost:4566"
 
-pipenv run python integration_test/test.py
-
 # Check input file
 aws s3 ls s3://nyc-duration/in/ --endpoint-url=http://localhost:4566
 

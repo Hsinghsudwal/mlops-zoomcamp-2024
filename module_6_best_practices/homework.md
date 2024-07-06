@@ -134,6 +134,11 @@ In both cases we should adjust commands for localstack. What option do we need t
 * `--endpoint-url` c
 * `--version`
 
+```
+localstack:
+aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration-v1/in/
+```
+
 
 ## Make input and output paths configurable
 

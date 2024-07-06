@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import datetime
-import batch_refactor
+import batch
 
 def dt(hour, minute, second=0):
     return datetime(2023, 1, 1, hour, minute, second)
@@ -17,7 +17,7 @@ def test_prepare_data():
     df = pd.DataFrame(data, columns=columns)
 
     categorical = ['PULocationID', 'DOLocationID']
-    actual_output = batch_refactor.prepare_data(df, categorical)
+    actual_output = batch.prepare_data(df, categorical)
 
     expected_data = [
         
