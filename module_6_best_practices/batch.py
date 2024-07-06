@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 import sys
 import os
 import pickle
@@ -88,4 +85,4 @@ if __name__ == '__main__':
     year = int(sys.argv[1])
     month = int(sys.argv[2])
 
-    main(year=year, month=month)
+    main(year, month)
