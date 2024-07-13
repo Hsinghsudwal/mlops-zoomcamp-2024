@@ -3,8 +3,7 @@
 3. min-sample-split=2
 4. locally-- mlflow ui --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts
 
-x=[default-artifact-root]
-server-- mlflow server --backend-store-uri sqlite:///mlflow.db --x ./artifacts
+server-- mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts
 
 5. rsme: 5.3354
 6. test rsme: 5.567
